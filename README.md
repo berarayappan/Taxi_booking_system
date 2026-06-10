@@ -35,20 +35,17 @@ This is a console-based Call Taxi Booking System developed using Python. The app
 * Classes and Objects
 * Lists
 * Dictionaries
-* Sorting
 * Functions
-* Console-Based User Interface
 
 ## Project Structure
 
-Taxi-Booking-System/
-│
-├── taxi_booking.py
-└── README.md
+Taxi-Booking-System
+taxi_booking.py
+README.md
 
 ## Sample Menu
 
-===== CALL TAXI BOOKING SYSTEM =====
+CALL TAXI BOOKING SYSTEM 
 
 1. Book Taxi
 2. View Taxi Details
